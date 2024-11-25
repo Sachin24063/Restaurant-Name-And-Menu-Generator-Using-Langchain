@@ -23,7 +23,7 @@ The app is built with **Streamlit** and integrates with **LangChain** for seamle
 
 Here’s a preview of the app’s interface:
 
-![Layout Preview](app.png)
+![Layout Preview](App.png)
 
 ## 🔧 Installation
 
